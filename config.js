@@ -21,13 +21,13 @@ const CONFIG = {
   // BASICS — name, contact, headshot
   // =========================================================
 
-  name: "Jane Cartographer",
-  tagline: "GIS Analyst & Community-Engaged Cartographer",
+  name: "Gloria Kroodsma",
+  tagline: "Ecologist & Community-Engaged Geographer",
   location: "Richmond, Virginia",
 
-  email:    "jane.cartographer@example.com",
-  github:   "https://github.com/yourusername",
-  linkedin: "https://linkedin.com/in/yourusername",
+  email:    "gloria.kroodsma@richmond.edu",
+  github:   "https://github.com/ggkroo",
+  linkedin: "https://linkedin.com/in/gloria-kroodsma",
   website:  "",   // leave as "" to hide
 
   headshot: "images/headshot.svg",
@@ -38,9 +38,8 @@ const CONFIG = {
   // 1-2 sentences. Keep it punchy.
   // =========================================================
 
-  shortBio: `Senior at the University of Richmond studying Geography
-             and Data Science, focused on open spatial data, community
-             cartography, and making maps that answer real questions.`,
+  shortBio: `New graduate from the University of Richmond with majors in 
+  Biology and Geography. Focused on applying GIS and data analysis to conservation issues.`,
 
 
   // =========================================================
@@ -49,25 +48,7 @@ const CONFIG = {
   // To split into paragraphs, use \n\n between them.
   // =========================================================
 
-  longBio: `I am a senior at the University of Richmond studying Geography
-            and Data Science. My work focuses on using open spatial data
-            to answer questions that communities are actually asking.
-
-            In 2024 I interned with the City of Richmond's Office of
-            Sustainability, where I built a series of tree-equity
-            dashboards now used by neighborhood groups to advocate for
-            plantings on underserved blocks. I have also worked on a
-            statistical analysis of margins of error in American
-            Community Survey data, a project I am co-authoring with
-            two faculty members at UR.
-
-            Outside of GIS, I write a small newsletter about urban
-            history in the upper South, and I am slowly teaching
-            myself to make decent sourdough.
-
-            I am graduating in May 2026 and am looking for full-time
-            roles in spatial analysis, planning support, or applied
-            research.`,
+  longBio: `My works focuses on...`,
 
 
   // =========================================================
@@ -78,17 +59,10 @@ const CONFIG = {
   education: [
     {
       school: "University of Richmond",
-      degree: "B.A., Geography & Data Science",
-      year:   "Expected May 2026",
-      note:   "Honors thesis on canopy equity in Richmond"
+      degree: "B.S., Biology & Geography, minors in Archaeology and Data Science & Statistics",
+      year:   "May 2026",
+      note:   "_Magna cum laude_"
     },
-    // Add high school, study abroad, certificate programs, etc. here
-    // {
-    //   school: "...",
-    //   degree: "...",
-    //   year:   "...",
-    //   note:   ""
-    // },
   ],
 
 
