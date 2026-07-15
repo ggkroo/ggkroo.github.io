@@ -61,7 +61,7 @@ const CONFIG = {
       school: "University of Richmond",
       degree: "B.S., Biology & Geography, minors in Archaeology and Data Science & Statistics",
       year:   "May 2026",
-      note:   "_Magna cum laude_"
+      note:   "*Magna cum laude*"
     },
   ],
 
